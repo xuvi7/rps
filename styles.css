@@ -1,0 +1,17 @@
+#score {
+    display: flex;
+    gap: 20px;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
